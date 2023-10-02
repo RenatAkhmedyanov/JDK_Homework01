@@ -1,0 +1,41 @@
+Server started
+Ivan Ivanovich has been logged.
+Ivan Ivanovich is already logged.
+Ivan Ivanovich: qwe
+Ivan Ivanovich: asd
+Server stopped
+Server already stopped
+Server started
+Server started
+Server stopped
+Server stopped
+Server started
+Ivan Ivanovich has been logged.
+Ivan Ivanovich: qweasdasd
+Ivan Ivanovich: zxczcx
+Ivan Ivanovich: qweqw
+Server stopped
+Server started
+Server started
+Ivan Ivanovich has been logged.
+Ivan Ivanovich: ads
+Ivan Ivanovich: zxc
+Ivan Ivanovich: qwasd
+Server stopped
+Server started
+Ivan Ivanovich has been logged.
+Ivan Ivanovich: qweqwe
+Ivan Ivanovich: asdasd
+Ivan Ivanovich: zxczxc
+Ivan Ivanovich: qweqwe
+Ivan Ivanovich: asd
+Server stopped
+Server started
+Server started
+Ivan Ivanovich has been logged.
+Ivan Ivanovich: qwe
+Ivan Ivanovich: asdasd
+Ivan Ivanovich: zxczxc
+Ivan Ivanovich: qweqwe
+Server already started
+Server stopped
